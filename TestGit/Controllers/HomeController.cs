@@ -6,6 +6,7 @@ using System.Web.Mvc;
 
 namespace TestGit.Controllers
 {
+    //Test
     public class HomeController : Controller
     {
         public ActionResult Index()
